@@ -1,5 +1,5 @@
 # hello-world
-just another useless learning repository
+just another curious learning repository
   
 Hello,
 
